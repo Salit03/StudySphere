@@ -1,1 +1,1 @@
-# studysphere
+# salitSpace
